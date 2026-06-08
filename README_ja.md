@@ -180,6 +180,12 @@ AW is not a reduction of AI capability. It is the alignment of AI capability wit
 
 ---
 
+## 解説記事
+
+人工叡智（Artificial Wisdom / AW）の一般向け解説記事はこちらです。
+
+- [人工叡智とは何か：自然法則・調和・循環に基づくAI時代の知性設計](https://note.com/inchacomusho/n/n93631397ac20)
+
 ## ライセンス
 
 CC BY-SA 4.0  
