@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "Artificial Wisdom (AW) Official Definition — Public Draft v1.0"
+message: "If you use this definition or prompt framework, please cite it as below."
+type: generic
+authors:
+  - name: "Master / inchacomusho / InchaComisho"
+    alias: "InchaComisho"
+abstract: "A public draft definition of Artificial Wisdom (AW), a natural-law-based intelligence framework built on the Six Principles: Natural Law, Harmony, Circulation, Structure, Order, and Wa."
+version: "1.0"
+date-released: "2026-06-08"
+license: "CC-BY-SA-4.0"
+url: "https://github.com/InchaComisho/Artificial-Wisdom-Official-Definition"
+repository-code: "https://github.com/InchaComisho/Artificial-Wisdom-Official-Definition"
+keywords:
+  - Artificial Wisdom
+  - AW
+  - Natural Law
+  - Six Principles
+  - AI guardrail
+  - AI safety
+  - AI alignment
+  - Wa
+  - Wa-Node
+  - Civilization OS
