@@ -201,6 +201,12 @@ The following resources connect AW / AGI / ASI research with optical quantum com
 
 ---
 
+## Supplementary Documents
+
+- [Artificial Wisdom Charter Supplement: Finitude and Dynamic Equilibrium](docs/AW_CHARTER_SUPPLEMENT_FINITUDE.md)
+
+---
+
 ## License
 
 CC BY-SA 4.0  

@@ -215,6 +215,12 @@ AGI、ASI、人工叡智（AW）の将来設計には、知性の価値基準だ
 
 ---
 
+## 補足文書
+
+- [人工叡智憲章 補章：有限性の哲学と動的平衡](docs/AW_CHARTER_SUPPLEMENT_FINITUDE_ja.md)
+
+---
+
 ## ライセンス
 
 CC BY-SA 4.0  
