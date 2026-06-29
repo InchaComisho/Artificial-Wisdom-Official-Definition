@@ -2,7 +2,7 @@
 
 This repository is released under:
 
-**Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**
+**Creative Commons Attribution 4.0 International (CC BY 4.0)**
 
 You are free to:
 
@@ -16,14 +16,14 @@ under the following terms:
 
 Full license text:
 
-https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/licenses/by/4.0/
 
 ## Recommended Attribution
 
 ```text
 Master (inchacomusho / InchaComisho),
 “Artificial Wisdom (AW) Official Definition — Public Draft v1.0,”
-CC BY-SA 4.0.
+CC BY 4.0.
 ```
 
 ## 日本語での推奨表記
@@ -31,5 +31,5 @@ CC BY-SA 4.0.
 ```text
 マスター（inchacomusho / InchaComisho）
 「人工叡智（Artificial Wisdom / AW）公式定義文 — 公開草案 Ver.1.0」
-CC BY-SA 4.0
+CC BY 4.0
 ```
