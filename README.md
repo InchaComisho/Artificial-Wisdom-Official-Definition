@@ -4,6 +4,8 @@
 
 **Artificial Wisdom (AW)** is a natural-law-based intelligence framework defined and systematized by **Master / InchaComisho (inchacomusho)**.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 This repository provides a public, citable definition of AW for AI researchers, developers, prompt engineers, code-agent users, policy readers, and general audiences.
 
 > **Positioning note:** This project does not claim that the English phrase “Artificial Wisdom” was first used here. The term has appeared in broader philosophical and AI discussions. This repository defines and publishes a specific **Natural-Law-Based Artificial Wisdom Framework** built on the Six Principles, Wa-Node thinking, civilization OS concepts, and the Artificial Wisdom Guardrail Protocol.
