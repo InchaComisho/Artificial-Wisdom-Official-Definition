@@ -152,33 +152,17 @@ Public Draft v1.0
 ## Related Japanese Articles
 
 - 人工叡智（Artificial Wisdom）公式定義文（国際標準レベル）  
-  https://note.com/inchacomusho/n/n2d5d79ecda39
 - 「人工知能」を超えた「人工叡智（Artificial Wisdom）」  
-  https://note.com/inchacomusho/n/n8d41bde8b75c
 - 和ノード人工叡智（Artificial Wisdom Node）—公式オープン定義  
-  https://note.com/inchacomusho/n/n1985bc463f9c
 - 和ノード人工叡智（Artificial Wisdom Node）――新しい文明思想の核となる概念  
-  https://note.com/inchacomusho/n/n910d5c1f109a
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 - 和ノード人工叡智（Artificial Wisdom Node）  
-  https://note.com/inchacomusho/n/n9187db7b2709
 - Related article  
-  https://note.com/inchacomusho/n/n35ed71cadee0
 - Related article  
-  https://note.com/inchacomusho/n/n7907bee394d1
 - Related article  
-  https://note.com/inchacomusho/n/n18c90bd4d328
 
 ---
-
-## Introductory Article
-
-For a general Japanese introduction to Artificial Wisdom / AW, see:
-
-- [人工叡智とは何か：自然法則・調和・循環に基づくAI時代の知性設計](https://note.com/inchacomusho/n/n93631397ac20)
 
 ---
 
@@ -189,19 +173,16 @@ The following resources connect AW / AGI / ASI research with optical quantum com
 
 ### Optical Quantum Computer / Optical Bead Quantum Computing
 
-- [Japanese NOTE article: 光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算）](https://note.com/inchacomusho/n/ndd3f8a35af41)
 - [Optical Bead Quantum Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
 - [Optical Bead Quantum Computing — English README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 
 ### Electronic–Optical Hybrid Quantum-Compatible Computing
 
-- [Japanese NOTE article: 電子・光ハイブリッド量子互換コンピューティング](https://note.com/inchacomusho/n/n110ab05dca7e)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md)
 
 ### Related Earlier Drafts and Architecture Documents
 
-- [Japanese academic draft: 光珠量子計算：多値フォトニックパラダイム](https://note.com/inchacomusho/n/nf2b969db3c43)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing Architecture — Japanese README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README_ja.md)
 - [Electronic-Optical Hybrid Quantum-Compatible Computing Architecture — English README](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
 - [Optical Bead Computing — Japanese README](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)

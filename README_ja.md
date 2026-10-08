@@ -165,33 +165,21 @@ AW is not a reduction of AI capability. It is the alignment of AI capability wit
 ## 関連記事
 
 - 人工叡智（Artificial Wisdom）公式定義文（国際標準レベル）  
-  https://note.com/inchacomusho/n/n2d5d79ecda39
 - 「人工知能」を超えた「人工叡智（Artificial Wisdom）」  
-  https://note.com/inchacomusho/n/n8d41bde8b75c
 - 和ノード人工叡智（Artificial Wisdom Node）—公式オープン定義  
-  https://note.com/inchacomusho/n/n1985bc463f9c
 - 和ノード人工叡智（Artificial Wisdom Node）――新しい文明思想の核となる概念  
-  https://note.com/inchacomusho/n/n910d5c1f109a
 - 六つの理（自然法則・調和・循環・構造・秩序・和）  
-  https://note.com/inchacomusho/n/n8448430591c1
 - 人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-  https://note.com/inchacomusho/n/n0849dfd12364
 - 和ノード人工叡智（Artificial Wisdom Node）  
-  https://note.com/inchacomusho/n/n9187db7b2709
 - 関連記事  
-  https://note.com/inchacomusho/n/n35ed71cadee0
 - 関連記事  
-  https://note.com/inchacomusho/n/n7907bee394d1
 - 関連記事  
-  https://note.com/inchacomusho/n/n18c90bd4d328
 
 ---
 
 ## 解説記事
 
 人工叡智（Artificial Wisdom / AW）の一般向け解説記事はこちらです。
-
-- [人工叡智とは何か：自然法則・調和・循環に基づくAI時代の知性設計](https://note.com/inchacomusho/n/n93631397ac20)
 
 ---
 
@@ -202,19 +190,16 @@ AGI、ASI、人工叡智（AW）の将来設計には、知性の価値基準だ
 
 ### 光量子コンピュータ / 光珠量子計算
 
-- [光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算） — NOTE](https://note.com/inchacomusho/n/ndd3f8a35af41)
 - [光量子コンピュータ：多値フォトニックパラダイム（光珠量子計算） — GitHub 日本語版](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
 - [Optical Bead Quantum Computing — GitHub English](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README.md)
 
 ### 電子・光ハイブリッド量子互換コンピューティング
 
-- [電子・光ハイブリッド量子互換コンピューティング — NOTE](https://note.com/inchacomusho/n/n110ab05dca7e)
 - [電子・光ハイブリッド量子互換コンピューティング — GitHub 日本語版](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README_ja.md)
 - [Electronic–Optical Hybrid Quantum-Compatible Computing — GitHub English](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing/blob/main/README.md)
 
 ### 関連する初期構想・学術草案
 
-- [光珠量子計算：多値フォトニックパラダイム（日本語版学術論文） — NOTE](https://note.com/inchacomusho/n/nf2b969db3c43)
 - [電子・光ハイブリッド量子互換コンピューティング構想 — GitHub 日本語版](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README_ja.md)
 - [Electronic-Optical Hybrid Quantum-Compatible Computing Architecture — GitHub English](https://github.com/InchaComisho/Electronic-Optical-Hybrid-Quantum-Compatible-Computing-Architecture/blob/main/README.md)
 - [光学ビードコンピューティング — GitHub 日本語版](https://github.com/InchaComisho/Optical-Bead-Quantum-Computing-A-Multi-Valued-Photonic-Paradigm/blob/main/README_ja.md)
