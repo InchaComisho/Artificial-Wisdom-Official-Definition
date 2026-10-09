@@ -1,5 +1,7 @@
 # Artificial Wisdom Charter Supplement: Finitude and Dynamic Equilibrium
 
+[日本語版はこちら / Japanese version](AW_CHARTER_SUPPLEMENT_FINITUDE_ja.md)
+
 ## Positioning
 
 This document does not replace the official definition of Artificial Wisdom (AW).

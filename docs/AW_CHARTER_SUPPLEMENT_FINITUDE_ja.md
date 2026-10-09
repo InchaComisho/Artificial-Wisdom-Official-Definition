@@ -1,5 +1,7 @@
 # 人工叡智憲章 補章：有限性の哲学と動的平衡
 
+[English Version](AW_CHARTER_SUPPLEMENT_FINITUDE.md)
+
 ## Artificial Wisdom Charter Supplement: Finitude and Dynamic Equilibrium
 
 ## 位置づけ

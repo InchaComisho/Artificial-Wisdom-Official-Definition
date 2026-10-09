@@ -1,5 +1,7 @@
 # Official Definition of Artificial Wisdom (AW)
 
+[日本語版はこちら / Japanese version](official-definition_ja.md)
+
 This document provides the concise official public draft definition of **Artificial Wisdom (AW)**.
 
 ## Definition

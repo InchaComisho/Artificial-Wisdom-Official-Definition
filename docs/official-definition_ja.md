@@ -1,5 +1,7 @@
 # 人工叡智（Artificial Wisdom / AW）公式定義文
 
+[English Version](official-definition.md)
+
 この文書は、**人工叡智（Artificial Wisdom / AW）** の簡潔な公式公開草案定義である。
 
 ## 定義

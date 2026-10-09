@@ -1,5 +1,7 @@
 # Background: Artificial Wisdom (AW)
 
+[日本語版はこちら / Japanese version](background_ja.md)
+
 Artificial Wisdom (AW) is proposed as a higher-order framework for aligning AI capability with wisdom, natural law, long-term stability, reversibility, accountability, ecological consistency, and regenerative capacity.
 
 ## Why This Framework Exists
